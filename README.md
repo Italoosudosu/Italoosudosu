@@ -1,40 +1,30 @@
-<h1 align="center">Oi 👋,Eu sou Italo Gomes</h1>
-<h3 align="center">Louco por programação e mundo digital</h3>
+Olá, sou Italo Gomes Fernandes!
+Sobre Mim:
+👨‍💻 Tenho 26 anos e estou apaixonado pelo mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, no terceiro semestre.
 
-- Atualmente estou estudando muito na faculdade de análise e desenvolvimento de sistemas e fazendo cursos fora da faculdade [Meus projetos](instagram.com/italogomesfe)
+Minhas Habilidades:
+💡 Lógica de Programação
+🐍 Python (Básico/Intermediário)
+🌐 HTML5 & CSS3
+🚀 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com um foco especial em JavaScript.
+Objetivo:
+🌟 Busco constantemente aprender e aprimorar minhas habilidades técnicas enquanto colaboro em projetos interessantes.
 
-- 🌱 Atualmente estou aprendendo **Html5/Css e Javascript**
+Obrigado por Visitar!
+Se você está interessado em colaborar em projetos ou apenas quer bater um papo sobre programação, sinta-se à vontade para entrar em contato!
 
-- Estou Compartilhando no meu canal no Youtube Canal do Youtube. https://www .youtube.com/channel/UCngavEhOLSWd41oh_Afya_A)
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
-- 📝 Falo sobre meus projetos e o que gosto no site [italogomes559.com.br/blog](italogomes559.com.br/blog)
-
-- 💬 Me pergunte sobre **Python básico, html básico , C# básico**
-
-- 📫 Voce me acha através do e-mail **italogomes559@gmail.com**
-
-- 📄 Foi fundado por Italo Gomes Fernandes [https://www.linkedin.com/in/italo-gomes-6a4a5b264 /](https://www.linkedin.com/in/italo-gomes-6a4a5b264/)
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href= "https://linkedin.com/in/https://www.linkedin.com/in/italo-gomes-6a4a5b264/" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/italo -gomes-6a4a5b264/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools. com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> < /a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https:// www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt ="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python /python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<!--
-**Italoosudosu/Italoosudosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div> 
+  <a href="https://instagram.com/italo_ogomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/italo-gomes-6a4a5b264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>

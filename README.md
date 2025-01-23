@@ -1,12 +1,12 @@
 Olá, sou Italo Gomes Fernandes!
 Sobre Mim:
-👨‍💻 Tenho 26 anos e estou apaixonado pelo mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, no terceiro semestre.
+👨‍💻 Tenho 27 anos e estou apaixonado pelo mundo da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, no terceiro semestre.
 
 Minhas Habilidades:
 💡 Lógica de Programação
-🐍 Python (Básico/Intermediário)
+🐍 Python 
 🌐 HTML5 & CSS3
-🚀 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web com um foco especial em JavaScript.
+🚀 Atualmente, estou aprimorando minhas habilidades em desenvolvimento web.
 Objetivo:
 🌟 Busco constantemente aprender e aprimorar minhas habilidades técnicas enquanto colaboro em projetos interessantes.
 
